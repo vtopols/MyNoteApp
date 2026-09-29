@@ -1,6 +1,8 @@
 Многофункциональное приложение для ведения заметок, организованных по темам (папкам), с поддержкой чек-листов, важных дат и системы напоминаний. 
 Написано на Kotlin с использованием Jetpack Compose и Material 3.
 
+Скриншоты в папке Screenshots
+
 Язык: Kotlin
 UI: Jetpack Compose, Material 3
 Архитектура: MVVM (ViewModel + StateFlow)
